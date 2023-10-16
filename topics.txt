@@ -1,0 +1,16 @@
+Topic Gerenciamento de Dados em Nuvem: authorization, java, allow, test, certificate, trying, network, forbidden, different, domain
+Topic Autenticação e Segurança de Aplicações: string, ip, query, instead, js, message, address, logged, json, resolve
+Topic Integração de Serviços e Autenticação: api, key, rest, public, issue, access, gateway, object, permission, problem
+Topic Segurança de Senhas e Armazenamento de Credenciais: token, jwt, resource, custom, access, safe, basic, path, javascript, make
+Topic Manipulação de Dados em JavaScript: authentication, http, unable, disable, call, https, cookie, default, local, always
+Topic Segurança de Conexões e Autenticação de Servidor: secure, way, rule, one, response, redirect, ca, script, chrome, project
+Topic Segurança de Contas e Acesso a Serviços em Nuvem: app, password, google, store, csrf, python, securely, validation, username, send
+Topic Segurança em Aplicações PHP: spring, security, boot, oauth2, authentication, request, login, custom, endpoint, oauth
+Topic Segurança de Comunicações Web: rules, firebase, firestore, security, data, database, android, cloud, post, form
+Topic Autorização em Java e Certificados: prevent, header, file, php, files, protect, connect, controller, return, tokens
+Topic Gerenciamento de Permissões e Autenticação em Documentos: client, service, web, credentials, type, missing, inside, image, application, pass
+Topic Autenticação Baseada em Funções de Usuário: user, access, add, role, read, based, name, create, write, authenticate
+Topic Segurança e Acesso em JavaScript: code, aws, azure, security, specific, check, access, implement, account, running
+Topic Certificados e Redirecionamento em Scripts: page, multiple, vulnerability, permissions, id, document, update, session, login, ssl
+Topic Erros de Segurança e Políticas de Conteúdo: server, auth, requests, storage, need, connection, adding, saml, parameter, securing
+Topic Problemas de Acesso e Segurança em APIs: error, security, policy, content, work, group, csp, exception, function, invalid
